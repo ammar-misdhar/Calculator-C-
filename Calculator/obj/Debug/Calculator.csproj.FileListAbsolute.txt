@@ -1,0 +1,11 @@
+D:\Ammar\C#\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Ammar\C#\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Ammar\C#\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Ammar\C#\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\Ammar\C#\Calculator\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+D:\Ammar\C#\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\Ammar\C#\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\Ammar\C#\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\Ammar\C#\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Ammar\C#\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Ammar\C#\Calculator\Calculator\obj\Debug\Calculator.pdb
